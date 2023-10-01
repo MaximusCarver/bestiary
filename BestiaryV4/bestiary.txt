@@ -1,0 +1,20 @@
+tree branch
+
+
+Andy
+Mysterious Shrine,Rutherford,Shop
+3
+Catch Bait,Explore,Fish,Quit to Menu,Shop
+
+
+bug net
+wooden rod
+12
+
+10
+10
+0
+
+
+0
+
