@@ -1,0 +1,11 @@
+
+bass,salmon
+
+Andy
+Rutherford
+3
+Catch Bait,Explore,Fish,Quit to Menu,Shop,Visit Room
+
+
+bug net
+wooden rod
