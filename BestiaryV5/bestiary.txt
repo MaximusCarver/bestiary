@@ -1,0 +1,26 @@
+copper sword,tree branch
+
+bear
+Andy
+Rutherford,Shop
+3
+Catch Bait,Explore,Fish,Quit to Menu,Shop,Visit Room
+
+earthworm,snail
+bug net
+
+149682
+
+10
+10
+0
+
+
+0
+beast tamer
+
+0
+bear
+beast bait,beast bait,beast bait,beast bait,beast bait,beast bait,beast bait,beast bait,beast bait,beast bait,beast bait,beast bait,beast bait
+1
+false
