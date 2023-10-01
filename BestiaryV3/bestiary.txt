@@ -1,0 +1,17 @@
+copper sword,mossy stone sword,tree branch
+
+
+Andy
+Mysterious Shrine,Rutherford,Shop
+3
+Catch Bait,Explore,Fish,Quit to Menu,Shop,Visit Room
+
+
+bug net
+wooden rod
+36
+
+10
+10
+0
+mossback tortoise
