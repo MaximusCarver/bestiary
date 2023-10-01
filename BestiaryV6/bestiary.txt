@@ -1,0 +1,32 @@
+copper sword,mossy stone sword,tree branch
+
+boar,wolf
+Andy
+Mysterious Shrine,Rutherford,Shop
+3
+Bestiary,Catch Bait,Explore,Fish,Quit to Menu,Shop,View Inventory,Visit Home
+
+shrine snail,shrine snail,shrine snail,snail,butterfly,snail
+bug net
+wooden rod
+99700
+
+15
+15
+3
+mossback tortoise,necromancer,tree grunt
+entHeartContainer
+0
+bestiary,bestiary,bestiary,beast tamer
+wolf
+0
+boar
+beast bait,beast bait,beast bait,beast bait,beast bait,beast bait,beast bait,beast bait,beast bait,beast bait,beast bait,beast bait,beast bait
+1
+true
+copper armor
+copper armor
+shrine snail
+
+boar,skeleton,skeleton archer,skeleton warrior
+mossback tortoise,necromancer,tree grunt
